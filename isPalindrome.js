@@ -1,4 +1,4 @@
-// Write your code below
+// Write your code below // PALINDROME
 
 // Check to see if we write the word forward and then write it back word if it is the same
 
